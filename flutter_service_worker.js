@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "b320360891fab2a02fb95070dc3b0039",
+const RESOURCES = {"flutter_bootstrap.js": "0a5c004720559d3fa12ea66406fec49a",
 "version.json": "f04f829c8c6203599f6011b86ead2d23",
 "index.html": "b683be89e986af74257bfc3d9c5186ff",
 "/": "b683be89e986af74257bfc3d9c5186ff",
-"main.dart.js": "0377b1db1337100bc54329d6d03e6952",
+"main.dart.js": "32c71c0cb89f3b788c6faf69a056a461",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -27,7 +27,7 @@ const RESOURCES = {"flutter_bootstrap.js": "b320360891fab2a02fb95070dc3b0039",
 "assets/assets/data/car_models.json": "564e749988d5e2e0b13831649141405e",
 "assets/assets/data/poetry.json": "02af8ab5c2823b4d6cdc755e38d37316",
 "assets/assets/data/china.json": "981508d9619356a8deca0aa642792c51",
-"assets/assets/data/appInfo.json": "a6fbd231c0435243b2683062d8e42593",
+"assets/assets/data/appInfo.json": "586e31dce668eb4b1ca0fe02be7c726c",
 "assets/assets/data/contacts.json": "c3a568ec9fe53d15abba5102098d2611",
 "canvaskit/skwasm.js": "694fda5704053957c2594de355805228",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
