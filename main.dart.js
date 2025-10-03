@@ -100461,7 +100461,7 @@ P(a){var s,r,q=$.aMi(),p=$.aDn(),o=p.gQ9()
 p=p.ga4G()
 s=$.aMh()
 r=$.aDm()
-return new A.AC(q,"/jsonToDartPage",A.aRD(),"Flutter Templet",o,p,B.DQ,!1,!0,s,r,null)}}
+return new A.AC(q,"/jsonToDartPage",A.aRD(),"\u26a1\u26a1\u26a1 work efficiently",o,p,B.DQ,!1,!0,s,r,null)}}
 A.tq.prototype={
 P(a){return A.aI1(A.aEj(null,B.a8w),this.NO(),null)},
 NO(){var s=null
